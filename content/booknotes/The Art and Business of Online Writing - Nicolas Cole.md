@@ -1,0 +1,487 @@
+
+
+
+### 1. Intro - The Game of Online Writing (Author's journey)
+
+- Every question on Quora is a creative writing prompt that already had an interested audience.
+- Create a routine around writing every day
+- If some post goes viral, be prepared to expand it in 2-3 days into an ebook that you can sell.
+- Executive Ghostwriting is a big market.
+
+---
+
+
+### 2. Want To Start Writing Online? Don’t Start A Blog
+
+- *“blogging, having your own website, and writing online are three completely different things. You can blog without having your own website. You can have your own website without ever blogging. And you can write things online that millions upon millions of people read without having your own website or your own blog."*
+- **Blog** - monetised by (a) selling ad space, (b) selling a product. *“Either way, when you start a “blog,” you aren’t really in the business of writing. You’re in the business of ads, products, or services.”* 
+	- Good blogs - Hubspot (selling a highly specific CRM to all marketers), Kindlepreneur (selling everything a highly specific audience needs).
+	- *"If you are a company with the resources to build and scale your website into an industry publication, you should start a blog. And if you are a solopreneur who wants to “own” a category or niche by creating a directory of knowledge, you should start a blog. But if you don’t fit within either of these two categories, then blogging is not your best path forward.”*
+- **Website** - is a business card. But people coming to your website also want to see what others say about you on social sites like LinkedIn. And they want to see how your writing does on Medium. People want to see your writing in context of how other people see your writing. A website is not enough for that.
+- **Online Writing** - *“Sharing thoughts, stories, opinions, and insights on a platform that already has an active audience.”*
+
+---
+
+
+### 3. The New Way To Think About Being A Writer In The Digital Age
+
+- Use data to inform and improve their writing, or fail.
+- Before writing your book, write it online. Because writing online first:
+	- **reduces your risk:** You will learn what people like and don’t like much faster, for free.”
+	- **helps you find your voice:** If you start paying attention to data, the way you write today will not be the way you write tomorrow.
+	- **builds your audience from day one**: Instead of waiting until your bigger projects are ready to be shared, you will set yourself up for success from the very beginning.
+	- **gives you insight into what people want**: This is what Mark Manson did that was so brilliant. He used the data from his blog to inform the title, structure, and concept for his book, The Subtle Art of Not Giving A Fuck. 
+- How to interpret online writing feedback: 
+	- **Likes** = “This is something I approve of. Nice job."
+	- **Shares** = “This is something more people need to know about. This represents me.
+	- **Comments** = “This is thought provoking. I agree/disagree, and I want you to know why.
+	- **Views** = “This strikes a chord. There’s something valuable here.”
+- *“Practicing In Public is what separates aspiring writers from professional writers.”*
+
+---
+
+
+### 4. How The Online Writing Game Works: 7 Levels Of Success
+
+- **Level 1**: **Play the game consciously.**
+	- *“**The game** is simple. When you post a piece of content—whether it’s a picture of you and your family on Facebook, or a video of you jumping into a pool in a bikini on Instagram, or a link to a New York Times article on LinkedIn—you are sharing a part of yourself at scale. The more you share, the more people learn about you. The more people learn about you, the more conversations happen, the more opportunities present themselves, and the more a scalable digital version of your real-life self begins to crystalize on the internet.”*
+	- *“If your goal is to be better tomorrow than you are today, you have to **play the game consciously**. You have to start opening your eyes to the way the game is played, who your competition is, and what they’re doing that is capturing (and keeping) people’s attention—so that you can do the same."*
+	- *"By playing the game with intention, and paying attention to the data, **you will discover and amplify your most authentic writing voice ten times faster.**"*
+- **Level 2: Choose a category.**
+	- *“The entire—and I mean this quite literally, the ENTIRE—art and business and “game” of online writing is rooted in understanding what category you’re actually competing within.”*
+	- *“Think of **every category as its own playing field with its own rules**. What’s considered kosher in one category may seem completely unconventional in another. What one category calls “innovative,” another might see as boring. Your job is to take the time to read, observe, and study your chosen category to the point where you understand its native language.”*
+- **Level 3: Define your writing style.**
+	- Find your spot on the Educating - Entertaining writing spectrum.
+	- *“The secret to creating a unique writing style is by doing what would be considered “unexpected” in your chosen category.”*
+- **Level 4: Optimise your writing style for speed.**
+	- Have a high **Rate of Revelation** of new information
+	- Make it skimmable
+- **Level 5: Specificity is the Secret.**
+	- Become the most specific writer in your chosen category.
+	- *“Ineffective writing is nothing more than writing that does not resonate. And the reason it doesn’t resonate is almost always a reflection of specificity—or lack thereof. Either the writer isn’t being specific enough about their category, or the content of their writing isn’t speaking specifically to their target reader.”*
+	- Broad to specific in steps:
+		- Broad: “Marketing is a great way to build exposure.” 
+		- Specific: “Content marketing is a great way to build exposure for your business.”
+		- More Specific: “Content marketing is a great way to introduce new customers to your business and move them to the top of your sales funnel.”
+		- More Specific: “Content marketing, when published by your executive team opposed to your company’s blog, is a highly effective way to build organic exposure and trust with your target customers, moving them through your sales funnel without them feeling ‘sold to.’”
+- **Level 6: Engineering Credibility**
+	- Three layers of credibility:
+		- **Implied credibility:** *“is how much “Better” or “Worse” your content is than everyone else’s in your chosen category.”* 
+			- Some other signals:
+				- **Profile pic.** Higher quality, implies better.
+				- **Bio.** Specifying who you are, what category you write in, implies better.
+				- **Production quality.** High quality implies you have ability to spend, implies you have some success already, implies better.
+				- **Grammar.** Bad grammar implies worse.
+				- **Organisation of thought.** Writing flows smoothly implies you know what you're talking about. Formatted well implies you have been writing for a while.
+				- **Specificity.** *“The more specific you are, the more likely a reader is going to immediately assume they are in the right place, reading the right writer for them.”*
+		- **Perceived credibility:** being featured in a popular media platform, having testimonial from popular influencer, number of followers on social media, badges and achievements (Quora Top Writer, Amazon #1), how much money you have made. 
+			- These signals work. But they can, and often do, backfire. By promising high, you have increased the chances of your audience being disappointed. 
+			- Use these signals only after the content itself has tested well.
+		- **Earned credibility:** consistency, improvement over time, demonstrated ability to create something that resonates with the chosen category.
+			- *“By “following” them, what we’re really saying is we believe what they create tomorrow will be “As Great” or “Better” than what they created today—and we want to be there to experience it.”*
+			- Signals: 
+				- how long have you been creating content
+				- how often do you create content
+				- how much content have you already created
+				- how many people consume your content
+				- how well one of your content pieces has performed
+			- Unlike Perceived credibility, earned credibility can't be bought with money. You have to put in the time and energy.
+	- *“What makes a badge of credibility valuable isn’t really the badge itself. It’s how the writer chooses to wear it.”*
+		- Others use the badge you use yourself. 
+		- If you ignore a badge, others ignore it too.
+		- If you have a credibility signal, use it everywhere you can.
+		- “Credibility is in the eye of the beholder—and it’s a ladder anyone can climb.”
+- **Level 7: Create your own category.**
+	- *“It’s actually very, very difficult to become the “Category King” of someone else’s category.”*
+	- Malcolm Gladwell created "Pop Science" ==(Did he??)==. Jen Sincero and Mark Manson created "No-bullshit self-help." ==(Did they??)==. Tucker Max created Fratire (fraternity satire). 
+	- *“Categories are created at **unlikely intersections**, spotted by writers with an intimate understanding of one or multiple sub-categories.”*
+	- Ways to create a new category:
+		- **Audience x Genre.** New audience to an old genre, or new genre to an old audience. e.g. SciFi for war veterans. Philosophy for kids. 
+		- **Genre x Genre.** How To x Fantasy. SciFi x Memoir.
+		- **Audience/Genre x Tone.** If a genre/audience has an expected point on the Educating-Entertaining spectrum, change it dramatically. Mark Manson's slap-in-your-face self-help vs hugsy self-help.
+	- **Point of View.** Create a POV by communicating the differences of your new category to the audience. The more specific, the more you can separate.
+	- **Lead readers:** “If this is the category I’m interested in, then who should I be reading? Who is the #1 writer here?” And if you’re the one who created and educated them on this new category, who are they going to see as the expert? You.
+
+---
+
+
+### 5. Where You Should Be Writing Online—And Where You Should Not
+
+- **Limitations of Major Publications:**
+	- Writing for (or being featured in) a major publication does not automatically guarantee “millions of views."
+		- Just because “all of Inc Magazine” gets 30 million views per month, does not mean your one article gets even a meaningful fraction of that.
+		- The average amount of time a reader spends reading an article on a major publication is less than 60 seconds—with a 70-90% bounce rate.
+		- Their entire model is to shove as many ads down the reader’s throat before they run away.
+		- The majority of the traffic an article receives will be based on your sharing it on your own social media, which you can send anywhere.
+	- They don’t give the freedom to write whatever you want.
+	- Their audience wants opinions, news, or to learn how to do something. Nothing else. It don't tolerate self-promotion.
+	- Their reach is shorter than your own social media.
+	- You don't own your audience. No email list, no funnel.
+- **Benefits of Major Publication**
+	- Perceived credibility: Bragging rights.
+	- SEO: Your Google Page 1 improves.
+	- Social Exposure: They will tweet your article and tag you.
+	- Money: typically, $1 per 1000 views
+- **Best place to begin writing is a social platform in Phase 3.**
+	- **Pros of writing on social platform**
+		- Discoverability: traffic is already there. Algo will help.
+		- Earned credibility: views, shares, comments, follows
+		- Direct interaction: with readers and other writers
+		- Audience growth is faster
+		- You own your content
+		- People judge "out in the open" content more favourably than content in the safety of your own blog.
+		- More likely to be shared. 
+	- **Cons of writing on social platform**
+		- Feeback is immediate. This is a pro if you're emotionally mature. But if not, it can be stressful. Having just 1 like may decimate your confidence.
+		- Criticism is direct and in the open. Trolls are nasty.
+		- Low barrier to entry. Too much noise.
+	- Cons are mostly self-inflicted, though, largely rooted in fear or insecurity. Grow up and you're okay.
+	- **Social platforms likely to remain relevant for next 5-10 years:**
+		- Quora
+		- Medium
+		- LinkedIn
+		- Wattpad
+		- Twitter
+		- Amazon (Kindle)
+	- **Don't get married to the platform.** All have limited lifespans.
+		- **Phase 1**: New platform is invented, early audiences flock
+		- **Phase 2**: Platform gains traffic. Early users become influencers. Chances of platform failing are fairly low. VCs invest money.
+		- **Phase 3**: Platform is established, begins a decade-long journey to profitability.
+			- It needs to achieve certain exposure and engagement metrics in order to warrant turning on its advertising machine.
+			- So, it begins prioritizing its high-volume and high-engagement content creators, giving them more and more exposure in user feeds.
+			- Best time for you to enter.
+			- Because there isn’t any advertising on the site or in-feed yet, there is dramatically less friction between you and the people who follow you.
+		- **Phase 4**: Advertising model is launched. User reach starts falling.
+			- **Ads eat up feed space.** Instead of seeing 20 pieces of content per minute, a user sees only 15, with 5 ads. So, your reach falls.
+			- **You are Throttled**. The platform begins to withhold your reach as a content creator, forcing you to spend money in order to receive the same amount of exposure you used to receive organically.
+			- **Ad revenue leads to creator rewards**. But only the top performers actually get anything meaningful.
+		- **Phase 5**: Business model established, organic reach at a minimum.
+			- Time for you to look for new platform. Maintain just enough activity here, but spend most of your energy on another platform.
+		- **Platform to look out for - Substack.** Still in Phase 1.
+
+---
+
+
+### 6. How writing on social platforms works (And how not to give up)
+
+- **No overnight success.** Nobody, not even the most talented writers on earth, show up to a brand-new platform, write one single article, and experience virality.
+- **You need unrelenting commitment to consistency**. Writing online means tolerating the fact that pieces you spend hours slaving over are going to go unnoticed, while pieces you write in twenty minutes are going to land on the front page of Reddit and go viral. 
+- **It's not for faint of heart.** Both positive and negative feedback can hijack your mind.
+- **==Publish first, consume second.==** Number of hours spent consuming should never equal or exceed number of hours spent creating.
+- **Stages of growth as a writer on a social platform:**
+	- **Stage 1: Just start writing.**
+		- We are afraid of sharing who we are today—because we believe who we’ll be tomorrow will be “better.” This is a vicious cycle.
+		- Looking back later, you'll see how much you have improved
+		- Most beginner journeys look like this:
+			- “Post #1: “Hello! Thank you for having me. It’s truly an honor for me to be here, internet.”
+			- Post #2: “Alright look, here’s the real deal. I’m going to give it to you straight.”
+			- Post #3: “What is life, what am I doing here, and does any of this even matter?”
+			- Post #4 is where the first real checkpoint kicks in. The novelty of starting something new wears off, data begins revealing the truth of the situation—“I’m not an overnight success story, what?”—and subconsciously there is a realization that any and all success will be the product of hard work.” **This is where most people give up**.
+	- **Stage 2: Write consistently for 6 months and then decide.**
+		- **Goal 1 - See if you can even be consistent at all.** 
+			- Growth hacks, viral tactics, are useless unless you write consistently in the first place.
+			- ==**Minimum 2x per month**== to be seen as an authority in your category and a leader in your industry.
+			- **Ideally, every single day.**  
+				- More tries, more data, more wins, more compounding.
+				- Readers are fickle. Too many sources. They won't wait around for you. 
+		- **Goal 2 - Gather data about what your most popular categories are**
+			- Focus on "discovering" yourself vs "establishing" yourself
+			- Have **3 Content Buckets**
+				- First is related to your **area in general**. (e.g. Biotech industry)
+				- Second is related to **your specific position in that area**. (VP of Marketing in Biotech)
+				- Third is around your **personal interests**. (Mountain Biking, Self-Discipline.)
+			- Write across all three, alternating across them, and see which ones perform best. Very likely, you will see that the ones doing well are not the ones you thought will do well. 
+			- **Big decision**: You are passionate about one thing. Your data shows another thing to be doing well. Which do you do?
+				- Do both. Always. ==**Optimise your data-driven writing, so that you can introduce people to your passion writing.**== (e.g. This book has a plug for author's poetry book.)
+		- **Goal 3 - Pay close attention to writers at the top** of the hierarchy of the social platform, and **constantly measure yourself against them**.
+			- Match their writing frequency, word count per article, content types, user-engagement strategies
+			- Understand why exactly they are succeeding. Question everything they are doing repeatedly. Spot their patterns, mimic them, and slowly shape them into your style.
+			- Nicolas Cole / Author's patterns:
+				- Publish something new every single day
+				- Write fast-paced articles that use short paragraphs, declarative language, and subheads for every main point.
+				- Combine actionable advice for the reader with personal stories from your own life that illustrate how you gained the insight you’re sharing in the first place.
+				- Collaborate with professional photographers, build your personal brand, and attach pictures of yourself with the articles you write.
+				- Publish more than 3,000 articles online over the next five years.
+				- Contribute dozens of articles to Inc Magazine, Forbes, Harvard Business Review, Fortune, Business Insider, The Chicago Tribune, The Huffington Post, TIME, and more, to build your Perceived Credibility.
+				- Land a few speaking gigs, and capture pictures of you speaking to illustrate more Perceived Credibility.
+				- Speak on 100+ different podcasts, illustrating even more Perceived Credibility.
+			- Each "achievement" is nothing more than a single step along the journey.
+	- **Stage 3: Once you've proven you can be consistent, pour some gasoline on your fire and go KABOOM!**
+		- If you can't go through Stage 1 and 2, you are not a writer. Either try again, or realise that you might like the idea of being seen as a writer more than sitting down and actually writing.
+		- If you have passed Stage 1 and 2, start using these strategies:
+			- **Audience Hacking**: 
+				- Collaborate with another writer who has a similar audience to you. 
+				- They could be in your chosen category or another related one. The latter has more value in increasing the pie.
+				- Collaborations include:
+					- Coauthoring an article together.
+					- You interviewing them, and them interviewing you
+					- You sharing one of their articles, them sharing one of your articles
+					- You both meeting up in real life, taking a picture or shooting a short video clip together, posting it and tagging each other
+					- You giving them a testimonial, and them giving you a testimonial
+				- Besides marketing to a new audience, you also get to create content that is different and maybe even better than what you could otherwise create on your own.
+			- **Trend Jacking**:
+				- Easiest, most common growth hack on the internet.
+				- You hop on someone else’s train in order to bring some of that heightened attention back to yourself.
+			- **Engagement Hacking**:
+				- You engage with the audiences of other writers, introducing them to your own writing.
+					- Make a list of other writers within your chosen category.
+					- Go to each of their profiles and start commenting on recent content they’ve published
+					- Even better, respond to someone else’s comment on their content.
+				- If audience likes your comments, they go to your profile and see that you actively write about similar material as the writer they already love and follow, there’s a good chance they’ll start following you too—especially if they feel like you’ve started building a relationship with them.
+			- **Hashtag Stacking**:
+				- Hashtags are like folders. They indicate the buckets your content falls into. 
+				- Research hashtags:
+					- Go back to your list of popular authors in your category. What hashtags are they using and why?
+					- Create a tiered list of folders for your content. 
+						- Tier 1 is broad, popular hashtags. Exposes to masses.
+						- Tier 2 is smaller, niche hashtags. Targets specific people.
+			- **Publishing Hacking**:
+				- Best way to leverage your library of *timeless* content.
+				- **Delete your original post, change a variable or two, and publish again.**
+					- Many variables dictate whether a post will catch fire. Some in your control - hook, title, platform, etc. Some not - news cycle. 
+					- On Quora, maybe post the same answer to a different question. On Medium, move article from one Publication to another. Or change the title, hook, etc.
+					- You can't do t
+					- his when your content is on someone else's website or a major publication.
+					- Better alternative to deleting: **Write an improved version and publish it as a new piece.**
+				- **Build syndication relationships with websites and major publications**, and get around the "duplicate content" rule.
+					- “**Syndication**” is when major publications build partnerships with each other to share popular content. e.g. Business Insider publishing something that did well on Inc. 
+					- "**Duplicate content**" is Google's SEO frown on exact same content being on two domains. Not relevant to you, as you are not in the SEO game. That's when you have a website selling a service.
+					- **Beginner version** of this strategy is to post every single article you write on every single social platform you can. 
+					- **Advanced version** of this strategy is to reach out to websites and publications and let them know you are writing content that aligns with their target audience, and that you’d be willing to let them *syndicate your content for free*.
+						- Find someone on LinkedIn or Twitter who works for the website or publication, and ideally has “partnerships” somewhere in their job description. Send them a message with links to three of your articles.
+						- Major publications actively syndicate content from Quora, Medium, Twitter. They will be most receptive. Especially if you have metrics to prove readership.
+					- **Expert version** of this strategy is the advanced version at the publication level.
+						- **build your own website, brand it as a publication**
+						- Get some writers to publish on the website. If there are other upcoming writers in the category, maybe this is a way to collaborate.
+						- Seed your own articles on this website.
+						- **Forge syndication partnerships with other websites and publications as “a publication” yourself.**
+						- Has higher conversion chance than syndicating as a solo author.
+
+---
+
+
+### 7. How to always write something people will want to read: 5 forms of proven writing
+
+
+- **Five forms of content:**
+	- Actionable Guide
+	- Opinion
+	- Curated List
+	- Story
+	- Credible Talking Head
+- The way you “win” the game of online writing is by creating the single best possible version of whatever form of writing you’re using in your chosen category.
+- **Actionable Guide:**
+	- **Goal is to get someone to bookmark it**. This means they don't want to just read once, but come back again and again.
+	- How to makes yours "better" than competition:
+		- **“Better” Quality:** If everyone else writes short guides that don’t go into very much detail, you can be the one to write long, insightful, walkthrough-style guides. Conversely, if everyone else writes long, boring, walkthrough-style guides, you can be the one to condense them into shorter, more digestible bites.
+		- **“Better” Voice:** If everyone else’s How To guides are dense and overwhelming, you can show up to the party and be fast, full of personality, and overly casual. Conversely, if everyone else’s How To guides are so casual you feel as though you aren’t being given professional insight, you can be the one to write in a more formal way.
+		- **“Better” Organization:** If everyone else writes really great material, but it’s organized poorly and full of huge paragraphs and no subheads or page breaks for the reader, you can win simply by organizing your writing more visually and “appearing” easier to read and understand.
+		- **“Better” Positioned:** If everyone else is writing about the same problem, you can flip the problem on its head to be seen as something radically different. For example, if there are a million guides all titled “How To Get Your First Client As A Freelance Photographer,” you can position yourself differently by reframing the problem: “Freelance Photographers, Here’s Why You Don’t Want To Charge Your First Client Any Money At All.”
+		- **“Better” For The Audience:** If everyone else is writing about their industry from a broad perspective, you can stand out by choosing not to use universal language and using extremely specific terminology and vernacular only that specific audience would understand—and vice versa, if everyone else writes exclusively for the niche, you can stand out by writing for a broader, more universal audience.
+		- **“Better” Experience:** If everyone else writes as if they are trying to hard-sell readers into buying a product or course only giving them 10% of the information they actually need and hoping they’ll pay for the other 90%, you can stand out by giving away that same information (and then some) for free.
+- **Opinion**
+	- Everyone has one. Because opinions are so easy to write and share, they are also **least likely to stand out**. 
+	- **Do everything listed for better Actionable Guides**, and then these:
+		- **“Better” Data:** If everyone else’s opinions are shot from the hip and aren’t backed by anything substantial, this is your opportunity to show up to the party with a satchel full of facts. Conversely, if the most popular opinions on a particular topic are overloaded with facts and statistics making them difficult to read, you can be the one to write an entire piece around one single fact and make the topic more digestible.
+		- **“Better” Quotes:** If everyone else is only writing their own opinions, you can be the one to amplify your opinions by curating credible, insightful quotes from other relevant voices.
+		- **“Better” Insight:** If everyone else is keeping the conversation within the commonly accepted rules of the industry, you can present insight from outside the industry and expand the conversation to bigger and broader audiences. (And vice versa: if everyone is sharing big, broad opinions, you can be the one to bring the topic back to one key insight.)
+		- **“Better” Stories:** If everyone else is sharing opinions citing facts or personal beliefs, you can reframe the conversation by telling a unique story that underscores the point you’re trying to make. (e.g. Ryan Holiday)
+		- **“Better” Clarity:** If everyone else’s opinions are murky, disorganised, or unnecessarily complicated, you have an opportunity to make things simple for readers. What really matters here? Why? And how can you say it in a way where a single sentence rings louder than an entire essay on the topic? (For example: Tweets that go massively viral aren’t just “clever” or “punchy.” They’re clear. They resonate with so many people because they bring a massive amount of clarity to an opinion everyone else seems to be overcomplicating.)
+- **Curated List:**
+	- Valuable lists have specificity and speed:
+		- **Specificity** is how relevant the examples you’re choosing in your list are to the target reader.
+		- **Speed** is how quickly you are revealing new, important information to the reader.
+		- Both are essential. Writers go wrong by trying to have one without the other. 
+	- **Do everything listed for better Actionable Guides and Opinion**, and then these:
+		- **“Better” Examples:** If everyone else is using cliché examples—Michael Jordan, Wayne Gretzky, Tiger Woods—you can differentiate yourself by using lesser known, more unconventional examples specifically from seemingly irrelevant categories.
+		- **“Better” Structure:** If everyone else’s lists are numbered subheads followed by big, blocky paragraphs, your lists can appear different just by organizing the information in a cleaner way. Maybe you have a subhead, and then one single sentence of description, before moving on to the next subhead and important piece of information (incredibly fast Rate of Revelation). And vice versa, if everyone else’s lists are short and very surface level, there’s an opportunity for you to expand upon each numbered point in more depth.
+		- **“Better” Subheads:** If everyone else is using single-word subheads, why not make your subheads entire sentences? If everyone else is using broad statements as subheads, why not make yours more specific?”
+		- **“Better” Introduction:** If everyone else treats lists as nothing more than a “listing” of information, you have the opportunity to frame your list differently by adding a thoughtful introduction. What makes this list different? Where is this coming from? Who are you to be curating this information for the reader? What’s your intention in pulling all this information together? Sharing your point of view as a writer is a powerful mechanism for giving new context to what might be conventional wisdom.
+- **Story**:
+	- **Stories are the most powerful hooks**. Drives most engagement. People start reading before they can think "Do I want to read this?"
+	- **Do everything listed above**, and then these:
+		- **“Better” Openers:** If everyone else is taking their sweet time getting to the point, blow right past them and start writing at the moment of conflict or achievement. (Every single sentence you write online, you are fighting for the reader’s attention. If “your story “gets better” four paragraphs later, delete your first four paragraphs. You don’t need them.)
+		- **“Better” Transitions:** If everyone else is writing long-winded, overly descriptive, and slow-as-molasses prose, do the opposite. Tell an entire story in four sentences. Add a page break. And then move on to the next powerful story or thought. There are no rules in writing. All that matters is you keep the reader’s eyes moving down the page.
+		- **“Better” Characters:** If everyone else in your niche or genre names their characters regular names like John and Sarah, name your characters XY-2 and UU-5. If everyone else’s characters have regular hobbies like playing soccer or the guitar, give your characters more unique hobbies like tie-dying safari hats. Whether you’re creating fictional characters in your imagination, or choosing true stories to retell, you always want to be searching for the unconventional. 
+		- **“Better” Language:** If everyone else is writing in formal English with perfect grammar, try writing in a dialect only your most loyal readers will understand. Maybe you intentionally never use commas because that’s your style. Maybe you intentionally overuse the word ‘like’ because, like, you want to sound like a valley girl because like, that would just be just like so perfect for your story. 
+		- **“Better” Category:** If everyone else is writing conventional sci-fi, you should be the one to write Education Sci-Fi, where you teach readers different subject matters but in futuristic terms, settings, etc. Or, if everyone else is writing cooking recipes with a few personal anecdotes, you should be the one to write Recipes That Became Family Stories—giving the reader a recipe they can make themselves, but also telling them the ridiculous time Uncle Larry tried to make apple pie and ended up at the grocery store at 1:00 a.m., hammered, arguing with the cashier lady about how NASA has never actually been to the moon and they staged the whole thing on live television. Writing that truly “stands out” always lives in a fundamentally different category.
+- **Credible Talking Head**
+	- **Always look for the topics, subject matters, and categories you are most qualified to write within**.
+	- Sometimes, your credibility informs what it is you write about (you’re the Head of Marketing for a startup, and so you believe you’re qualified to write about marketing). 
+	- Other times, what you write about informs how and where you need to build your credibility.
+	- **Do everything listed above**, and then these:
+		- **“Better” Association:** If everyone else is writing only about their own personal experiences, write about your personal experiences being surrounded by or spending time with Barack Obama, Bill Gates, Brad Pitt, Halle Berry, or whoever else is seen as credible in your chosen category. (Name-dropping is one of the fastest ways to tell a reader, “I know what I’m talking about.”)
+		- **“Better” Context:** If everyone else is giving advice or sharing their opinions, you should be the one to give context as to why your advice, opinion, or story is different. For example, it’s one thing for me to say, “There are 5 things you need to know about ghostwriting for executives.” But, it’s much more powerful if I say, “I learned a lot building a multi-million-dollar ghostwriting company, and let me tell you, there are 5 things you need to know about ghostwriting for executives.” That one small addition of credibility completely changes the context of everything that follows.
+		- **“Better” Arguments:** If everyone else is just stating the facts, or shooting opinions from the hip, you can be the one to challenge conventional wisdom. Instead of writing about what to do, write about what not to do. Instead of talking about things people should learn, talk about what things most people never learn—and fail as a result. Reframing a topic is a powerful way of communicating to readers that you know something most other people in your chosen category do not.
+		- **“Better” Perception:** If everyone else’s eBook covers look like all the other eBooks in your chosen category, go seek out a designer who has a polar-opposite style so that your eBook looks nothing like the competition. If everyone else’s photos on social media look cheap and amateurish, save up some money and invest in professional photos, making yourself look like you’ve got a massive publishing house behind you (even if you don’t). The more ways you can present yourself as “unlike the rest,” the better.
+
+---
+
+### 8. How to write headlines people can't help but read.
+
+- Every form of online writing has a headline. 
+	- First sentence of a Tweet, LinkedIn status
+	- Title and subtitle of ebook
+	- First fold of your website front page.
+- **Curiosity Gap:** **A great headline makes readers understand 3 things at the exact same time**:
+	- What is this about?
+	- Who is this for?
+	- The PROMISE: the problem and/or the solution
+- **Clarity is key**. "Creative" and "clever" are often vague about what it is and for whom.
+	- “The Big Idea” is ineffective.
+	- “The Big Idea That Needs To Get Through Politicians’ Heads To Fix Racial Inequality In America” is clearer. As a reader, you now know exactly what this piece is about.
+	- “3 Big Ideas From Steve Jobs, Elon Musk, And Jeff Bezos That Changed The World Forever” is more specific. If you’re interested in creativity and business, you know this article was written for you.
+	- “This 1 Big Idea Will Change The Way You Think About College” is a big PROMISE. This headline tells the reader, “The way you think about college will no longer be the same after you read this article.”
+- **Always deliver on that PROMISE**—otherwise readers are going to call your writing “clickbait.”
+	- Avoid:
+		- “You’ll Never Believe What Happened Next!"
+		- “This CRAZY Situation Couldn’t Have Gotten ANY WORSE”
+		- “The Secret No One Wants You To Know..."
+	- "Better" versions:
+		- “The 1 Mistake All New Project Managers Make—That Ends Up Costing Their Company $500,000”
+		- “7 Small But Meaningful Things You Can Say To Your Significant Other To Show How Much You Love Them”
+		- “How To Write Headlines That Go Viral, Accumulate Millions Of Page Views, And Convert Readers Into Loyal Customers”
+- **Find new, unique ways to achieve these same three goals but by using new language, structures, or formats.**
+	- Best-selling books combine an overarching main title with an ultra-specific subtitle to create a puzzle of intrigue. 
+		- Nonfiction example: “Atomic Habits: An Easy & Proven Way To Build Good Habits & Break Bad Ones”
+		- Fiction example: “Ready Player One” (Immediately tells gamers, “This is a book for you.”)
+- ==**Before you start writing *anything*, the very first thing you should do is think deeply about the headline, the frame, and the focal point you are presenting to your reader.**==
+	- The size of your audience is a direct reflection of the size of the question you’re answering.
+		- **Masses**: answer a universal question, use simple language 
+		- **Niche**: answer a highly relevant question, in their lingo
+		- **Both**: use niche topics to answer universal questions
+			- “How To Be A Better Writer Today, So You Can Start Writing Best-Selling Books Tomorrow”
+			- “How To Become A Better Writer, Journal More Often, And Live A More Present Life”
+			- “How The Future Of Biotechnology Is Going To Make All Of Us Happier, Healthier, And Live Longer.”
+			- “The Girl Who Ran Away: Family, Loss, And The Power Of Forgiving Those Who Hurt You Most.”
+			- “7 Tips For Becoming Smarter, Achieving Chess-Master Memory, And Becoming The Most Interesting Person In The Room”
+- **Pieces of a perfect headline**:
+	- “{The 1} {Question} {That Gets} {Every Single Millennial} {In Trouble}”
+		- **{The 1}** **- the trust builder**
+			- first 2-3 words are most important. Reader scrolling look at the beginning (what the thing is) and the end (the PROMISE).
+			- The number at the beginning **shows conviction**. 1 and only 1. Exact. 
+			- A numbered list **sounds short**, as they are easy to scan. 
+		- **{Question}** **- the what**
+			- Essential for **clarity**.
+				- Reason
+				- Way
+				- Solution
+				- Problem
+		- **{That Gets}** **- connector**
+			- Should be used sparingly. Only when absolutely necessary.
+			- Depending on audience, change connectors. "Gets" is generic (for masses). Specific alternatives are "incentivises", "encourages".
+		- **{Every Single Millennial}** **- the who**
+			- The broad demographic - based on age, ethnicity, location, interest, etc.
+			- Who specifically within that demographic - all of them, some who x, one group
+		- **{In Trouble} - the PROMISE**
+			- This is what readers look for the most.
+			- **Elicit emotional responses**... 
+				- **they want** 
+					- "...Become Rich." is okay. "...Become so rich you never have to think of money again." is far more exciting.
+					- “…Get Married” is a standard outcome, but “…Get Married And Stay Together For More Than 20 Years” is an outcome the reader can measure.”
+				- **they want to avoid**
+					- “…Not Lose Your Job” is a general outcome most people want to avoid, but “…Not Get Fired On Your First Day” is a more specific, more easily imaginable outcome a lot of people actively worry about.
+- **Proven Headline Formats**
+	- **Big Numbers**: For example, “3,000 People Just Filed For Unemployment In This Small Town In Arkansas. Here’s Why.” This is a great headline because “3,000 People” is concrete, definitive, easy to imagine, and yet an unexpectedly large number—and what’s unexpected is exciting.
+	- **Dollar Signs**: Money is about as universal as a topic can get. “$400 Million Is How Much You Need To Make In Order To Afford This Insane Mansion In Malibu” is eye-catching because very few people have $400 million. Dollar signs make the Curiosity Gap wider and more interesting for readers.
+	- **Credible Names**: Celebrities, CEOs, pop culture icons, anyone the world can easily recognize by name is a great way to hook readers’ attention. “Will Smith’s Advice On How To Live A Fulfilling Life Will Change The Way You See The World Forever” is a headline built on credibility. Yes, there’s a great PROMISE here, but the real “hook” comes from the fact that it’s advice from Will Smith. “Amazon, Apple, Tesla, And 4 Other Stocks That Have Made Early Investors Mega-Millionaires” is another example of how to leverage name credibility.
+	- **“This Just Happened”**: Timeliness is a terrific mechanism for getting readers’ attention right now. Words like “Just, Recently, Today, Now,” etc., are what tell a reader that of all the things on the internet to read, “this thing” is high priority. For example, “Michael Jordan Just Gave A Press Conference And NBA Executives Are Furious.” The reason you would want to read that article is to feel in-the-know.
+	- **The Success Story**: These headlines summarise an amazing event or rare occurrence that doesn’t happen every day. For example, “How This Small Team Managed To Secure A Six-Figure Investment In Less Than 1 Week” or “This 1 Group Activity Exercise Increased An Entire Office’s Productivity By 150%.”
+	- **Things That Shouldn’t Go Together**: Combining two or more things in a headline that don’t typically sit next to each other is a great way to force readers to pause and take an interest. For example, “7 Things KFC And Miley Cyrus Have In Common,” or, “What Jay-Z, Pablo Escobar, And Oprah Can Teach Us About Leadership.”
+	- **For The Industry**: These headlines work well when you’re writing for a very specific audience. So much so, that you want to call them out right in the title. The more specific you can be about who the piece is for, the better. For example, “3 Things All Successful Small Business Owners Do To Stay Profitable.”
+	- **The Topic Within The Topic**: Some headlines benefit from a bit of added curiosity. This is a technique that can be applied to any of the other headline structures, and can be a great way of making readers feel like they’re getting the “inside scoop.” For example, “7 Ways The Real Estate Industry Is Changing (And How You Should Be Investing Your Money).” The first part of the headline is strong, but it’s the second part of the headline (inside parentheses) that gives the first part more context.
+	- **Question/Answer**: These headlines start with a question and end with a hint at the answer. This style is best suited for articles with a big concept that’s difficult to cram into one headline—but when split in two, you’re able to give more context to the reader, faster. For example, “Can’t Be Productive In The Office? Try Organising Your Calendar Like This” or “Don’t Know How To Track Your Goals? This New App Has The Answer.”
+	- **X Number**: 1 Thing, 3 Ways, 5 Lessons, 9 Habits, etc. Placing a number at the beginning of a headline tells the reader, “This is all you’re signing up for—just 9 quick habits and then we’re done.” It makes the piece feel like there is a much lower barrier to entry, while at the same time setting a concrete expectation. The book, “13 Things Mentally Strong People Don’t Do” became an international bestseller using the same headline style that has powered so many articles online.
+- All great headlines take time
+	- **BuzzFeed rule**: every writer must write 30 versions of a headline in order to find the right one.
+	- **First, write everything** you want to say in as many words as you need.
+		- The 8 Things You Should Do On A Daily Basis In Order To Become The Best Person You Can Possibly Become, No Matter What Obstacles Are In Your Way"
+	- **Second, nail the PROMISE**. 
+		- Can you promise more?
+		- What else does the reader want?
+		- What are their emotional wants, needs, and desires related to this specific problem or piece of advice?
+		- “The 8 Things You Should Do On A Daily Basis In Order To **Get More Done, Achieve Your Goals, And Start Living Your Best Life**” 
+	- **Third, remove or replace vague words**
+		- “The 8 Things You Should Do On A Daily Basis In Order To **Be More Productive, Achieve Success, And Gain True Financial Freedom**” 
+	- **Finally, edit out connector words**. As many as possible.
+		- “**8 Daily Habits That Will Make You** More Productive, Achieve Success, And Gain True Financial Freedom”
+	- **(Optionally) Add POWER phrases** to create urgency and importance
+		- "7 ways" -> "7 **little-known** ways"
+		- "These **unforgettable** truths..."
+		- "9 **memorable** truths..."
+		- "This **eye-opening** takeaway..."
+		- "11 **painful** mistakes..."
+	- ==**Write the piece only if you like the headline in its final form**==. Else, begin again.
+
+---
+
+
+
+### 9. How to Structure the Perfect Post
+
+- **No one correct way.** Writers keep redefining the rules of the game. Some general principles apply.
+	- Today, the styles that thrive move quickly and respect reader's time.
+	- **If you can say it in 3 sentences instead of 5, say it in 2.**
+	- If you need 2 sentences, do your best to say in 1.
+- **Structure of viral articles**:
+	- Introduction
+	- X Main Points
+	- Conclusion
+- **Introductions**
+	- First sentence answers the what.
+		- It should be short, clear, something readers can fly through. Nail the point in 10 words or fewer.
+			-  "Most people don't believe me when I say I write 10,000 words per day, every day."
+			- "Success doesn't happen in an instant."
+			- "There are only 2 ways to become rich."
+	- To quickly answer "Is this for me?" and "What is the PROMISE", follow these rhythms:
+		- **1 / 3 / 1**
+			- Strong opening sentence, three descriptions, one concluding sentence.
+				- “This first sentence is your opener.
+				- This second sentence clarifies your opener. This third sentence reinforces the point you’re making with some sort of credibility or amplified description. And this fourth sentence rounds out your argument, guiding the reader toward your conclusion.
+				- This fifth sentence is your strong conclusion and a transition to the Main Points.”
+			- Reader feels they have reached the first checkpoint (already??) with also a hint of where you are taking them next.
+		- **1 / 5 / 1**
+			- 1 / 3 / 1 but more description for complex topics.
+				- “This first sentence is your opener.
+				- This second sentence clarifies your opener. This third sentence reinforces the point you’re making with some sort of credibility or amplified description. This fourth sentence builds on that credibility or description, giving added context or new information. This fifth sentence explains to the reader why you’re telling them what you’re telling them. And this sixth sentence drives home the point.
+				- This seventh sentence is your strong conclusion.”
+			- More than 5 is dangerously close to off-putting.
+		- **1 / 3 / 2 / 1**
+			- Splits the concluding sentence from 1/3/1 into:
+				- “This fifth sentence is your strong conclusion. And this sixth sentence is expanding on why you’re making such a strong conclusion.
+				- This seventh sentence is what you’re going to talk about next.”
+		- **1 / 4 / 1 / 1**
+			- “This first sentence is your opener.
+			- This second sentence clarifies your opener. This third sentence reinforces the point you’re making with some sort of credibility or amplified description. This fourth sentence rounds out your argument. And this fifth sentence speaks to the emotional benefit of the reader.
+			- This sixth sentence is your conclusion.
+			- And this seventh sentence is why that conclusion matters so much.”
+		- **1 / 3 / 1  +  1 / 3 / 1** 
+			- If you *really need* a hefty introduction.
+			- If you don't break into two 1/3/1 **chunks**, readers will simply skip. Remember that we remember in chunks.
+			- This also forces you as writer to be conscious and clear about what you're trying to accomplish in each section. 
+			- If you can, **squish** the closer of the first chunk and the opener of the second **into one singular subhead**. 1 / 3 / **1** / 3 / 1.
+		- **1 / 3 / 1  +  bullets**
+			- If the second chunk has roughly co-similar points in the description, make it a list for visual variety.
+		- **1  +  Subhead**
+			- When you can quickly get to the Main Points because the headline takes care of the intro.
+			- Readers feel they have dropped right into the middle of action. Jarring in a good way.
+			- Also works well for articles with a lot of Main Points. 
+- **Main Points**
+	- Never inflate word count. If 800-1200 is the sweet spot, adjust explanation length of each point.
+		- More Main Points = Less Explanation
+		- Less Main Points = More Explanation
+	- **1 / 2 / 5 / 3 / 1**
+		- For 3 or fewer points
+		- For each point, it makes a solid argument without rambling.
+			- This first sentence is your opener.
+			- This second sentence clarifies your opener. And this third sentence is why the reader should care.
+			- This fourth sentence starts to expand on the point. This fifth sentence is a story, or some sort of credible piece of insight. This sixth sentence builds on that story or insight and tells the reader something they maybe didn’t know. This seventh sentence is a small conclusion. And this eighth sentence is why that conclusion matters.
+			- This ninth sentence recaps what you just told the reader. This tenth sentence reinforces the argument you’re making with an additional tidbit or insight. And this eleventh sentence drives the point home.
+			- This twelfth sentence reminds the reader of the important takeaway.
+		- Makes it feel actionable. 
+	- **1 / 3 / 1**
+		- For more than 3 points, fall back to this familiar unit
+			- This first sentence is your opener.
+			- This second sentence clarifies your opener. And this third sentence is why the reader should care. This fourth sentence is your mini conclusion.
+			- This fifth sentence is why that mini conclusion matters specifically to your target reader.
+		- 

@@ -1,0 +1,19 @@
+# How Not to Diet
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41wQsjOL-KL._SL200_.jpg)
+
+## Metadata
+- Author: [[Michael Greger]]
+- Full Title: How Not to Diet
+- Category: #books
+
+## Highlights
+- Just to give you a sense of marketing’s insidious nature, let me share an interesting piece of research published in Nature, the world’s leading180 scientific journal. The article titled “In-Store Music Affects Product Choice” documented an experiment in which either French accordion or German Bierkeller music was played on alternate days in the wine section of a grocery store.181 On the days the French music played in the background, people were three times more likely to buy French wine, and on German music day, shoppers were about three times more likely to buy German wine. Despite the dramatic effect—not just a few percent difference but a complete threefold reversal—when approached afterward, the vast majority of shoppers denied the music had influenced their choices. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=569))
+- The ideal BMI appears to be between 20 and 22, ([Location 966](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=966))
+- Keep your waist less than half your height.506 The goal for adults and children six years or older is to get a waist-to-height ratio under 0.5.507 Waist-to-height ratio may be a better predictor of both body fat percentage and visceral fat mass than BMI or waist circumference alone.508 ([Location 1171](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=1171))
+- The difficulty of curing obesity has been compared to learning a foreign language; it’s an achievement virtually anyone can attain with a sufficient investment of energies, but it always takes considerable time and effort. ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=1186))
+- Many are surprised to learn that new surgical procedures don’t require premarket testing or approval by the Food and Drug Administration (FDA)551 and are largely exempt from rigorous regulatory scrutiny,552 potentially making new surgeries even riskier than new medications. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=1237))
+- The third most common bariatric procedure is a revision to fix a previous bariatric procedure. ([Location 1241](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=1241))
+- So if you do choose to undergo the procedure, I’d recommend asking your surgeon how many they’ve done and also choosing an accredited Bariatric Center of Excellence, since surgical mortality appears to be two to three times lower at those institutions than at nonaccredited ones. ([Location 1253](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=1253))
+- Promoters of preventive medicine argue that bariatric surgery is the proverbial “ambulance at the bottom of the cliff.”623 In response, a proponent of pediatric bariatric surgery said, “It is often pointed out that we should focus on prevention. Of course, I agree. However, if someone is drowning, I don’t tell them, ‘You should learn how to swim’; no, I rescue them.” ([Location 1367](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=1367))
+- The benefit of balloons over most types of bariatric surgery is that they’re reversible, but that doesn’t mean they’re benign. The FDA has released a series of advisories about their risks, which includes cases of patient fatalities due to a stomach rupture.638 How could someone suffer a gastric perforation from a smooth, rounded object? By causing the patient to puke so much they rip open their stomach and die. ([Location 1391](https://readwise.io/to_kindle?action=open&asin=B07SHJ3M8K&location=1391))
