@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Minakhi’s Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is built with [Quartz 4](https://quartz.jzhao.xyz).
+
 Check out the [[second page.md|second page]].

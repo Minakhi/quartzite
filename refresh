@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+npx quartz build;
+npx quartz sync;
+git push
+
